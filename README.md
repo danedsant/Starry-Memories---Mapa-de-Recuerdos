@@ -10,7 +10,7 @@ Un lienzo interactivo y mapa diseñado para visualizar conexiones interpersonale
  Demo Interactiva: [Starry Memories](https://starrymem.vercel.app/)
 
  > [!NOTE]
- > Existe una nueva version en desarrollo rediseñada completamente desde cero aboradando las deficiencias de esta version de prueba
+ > Existe una nueva version en desarrollo rediseñada completamente desde cero abordando las deficiencias de esta version de prueba
 
 ## 🚀 Características
 
